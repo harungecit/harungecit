@@ -1,7 +1,8 @@
-### Hi there 👋, I'm Harun
-#### A Software Developer in living in Turkey for now!
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Harun
 
-<img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=27&lines=I+am+a+software+developer+;I+am+a+Linux+system+administrator+;I+am+a+content+creator)](https://git.io/typing-svg)
+
+<img align="right" alt="GIF" src="https://i.giphy.com/media/PvvSfSDFoAL5e/giphy.webp" width="500" height="320" />  
 
 - 🔭  I’m currently developing **ERP project** at **Gourmeturca.com** which is **Startup Company**.
 - 🌱  I’m currently learning **Personal Management**
