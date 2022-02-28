@@ -47,3 +47,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harungecit&show_icons=true&locale=en" alt="harungecit" width="50%" /></p><br />
 <br />
 	
+![snake svg](https://github.com/harungecit/harungecit/blob/output/github-contribution-grid-snake.svg)
