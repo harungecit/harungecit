@@ -47,5 +47,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harungecit&show_icons=true&locale=en&layout=compact" alt="harungecit" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harungecit&show_icons=true&locale=en" alt="harungecit" width="50%" /></p><br />
 <br />
-	
-![snake svg](https://github.com/harungecit/harungecit/blob/output/github-contribution-grid-snake.svg)
+
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=harungecit&theme=xcode" /></div>
+<div  align="center"> <img src="https://github.com/harungecit/harungecit/blob/output/github-contribution-grid-snake.svg" /></div>
