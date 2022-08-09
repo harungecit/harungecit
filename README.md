@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Laravel, NodeJS, Swelte, VueJS**
 - 📝 I regularly write articles on [https://www.harungecit.com](https://www.harungecit.com)
-- 💬 Ask me about **PHP, PDO, CodeIgniter, JavaScript**
+- 💬 Ask me about **PHP, CodeIgniter, JavaScript**
 - 📫 How to reach me **harungecit@gmail.com**
 
 
