@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/gecitharun" target="blank"><img src="https://img.shields.io/twitter/follow/gecitharun?logo=twitter&style=for-the-badge" alt="gecitharun" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, NodeJS, Swelte, VueJS**
+- 🌱 I’m currently learning **Laravel and VueJS**
 - 📝 I regularly write articles on [https://www.harungecit.com](https://www.harungecit.com)
 - 💬 Ask me about **PHP, CodeIgniter, JavaScript**
 - 📫 How to reach me **harungecit@gmail.com**
