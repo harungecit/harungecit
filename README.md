@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Harun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=27&lines=I+am+a+software+developer+;I+am+a+Linux+system+administrator+;I+am+a+content+creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+software+developer;I+am+a+blog+writer;I+am+a+content+creator)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/PvvSfSDFoAL5e/giphy.webp" width="400"  />  
 
