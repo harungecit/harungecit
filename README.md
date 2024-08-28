@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/gecitharun" target="blank"><img src="https://img.shields.io/twitter/follow/gecitharun?logo=twitter&style=for-the-badge" alt="gecitharun" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
-- 📝 I regularly write articles on [https://www.harungecit.com](https://www.harungecit.com)
+- 🌱 I’m currently developing **Laravel**
+- 📝 I regularly write articles on [https://echo.harungecit.dev](https://echo.harungecit.dev)
 - 📫 How to reach me **info@harungecit.com**
 
 
