@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/PvvSfSDFoAL5e/giphy.webp" width="400"  />  
 
-<p align="left"> <a href="https://x.com/harungecit_" target="blank"><img src="https://img.shields.io/twitter/follow/gecitharun?logo=twitter&style=for-the-badge" alt="@harungecit_ on X" /></a> </p>
+<p align="left"> <a href="https://x.com/harungecit_" target="blank"><img src="https://img.shields.io/x/follow/harungecit_?logo=x&style=for-the-badge" alt="@harungecit_ on X" /></a> </p>
 
 - 🌱 I’m currently developing **Laravel**
 - 📝 I regularly write articles on [https://echo.harungecit.dev](https://echo.harungecit.dev)
