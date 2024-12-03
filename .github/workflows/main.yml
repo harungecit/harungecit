@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -14,7 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate the snake animation
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
@@ -22,10 +20,9 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Push the generated files to the output branch
-      - name: Push Changes to Output Branch
-        uses: ad-m/github-push-action@v0.6
+      - name: Commit and Push Changes
+        uses: github-actions-x/commit@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
-          force: true
+          commit_message: "Update snake animation"
