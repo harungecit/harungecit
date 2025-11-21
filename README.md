@@ -28,9 +28,15 @@
 
 ### 🚀 About Me
 
+<img align="right" width="200" src="https://camo.githubusercontent.com/2c99404f7a65adc80a1923cfa4465cc4b5ba2a32a203e9c795fcc2c28a027ace/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" alt="coding gif" />
+
 - 🌱 I’m currently focused on **Cloud Native Development & DevOps**
 - 💻 Developing projects with **Laravel, Go, and React**
 - 📝 I regularly write articles on [**echo.harungecit.dev**](https://echo.harungecit.dev)
+- 🤝 I’m looking to collaborate on **Open Source Projects**
+- 📫 How to reach me: **info@harungecit.com**
+
+<br clear="all" />
 
 ---
 
@@ -51,15 +57,12 @@
   <img src="https://img.shields.io/badge/FrankenPHP-6A00FF?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Caddy_Server-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" />
   <img src="https://img.shields.io/badge/Traefik-24292E?style=for-the-badge&logo=traefik&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Coolify-6B21A8?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Dokploy-00C7B7?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/GitOps-EF3B2D?style=for-the-badge&logo=git&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Restfox-FF5722?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -72,16 +75,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=harungecit&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="harungecit stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harungecit&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="harungecit langs" width="400" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=harungecit&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=harungecit&theme=dark&hide_border=true&border_radius=5.5&date_format=j%20M%5B%20Y%5D&mode=weekly&bg_color=0d1117" height="160" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harungecit&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="160" alt="langs" />
 </div>
 
 <br/>
