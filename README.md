@@ -35,7 +35,6 @@
 <br />
 
 ---
-<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harungecit&theme=dracula" alt="harungecit" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harungecit&show_icons=true&locale=en&layout=compact" alt="harungecit" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harungecit&show_icons=true&locale=en" alt="harungecit" width="49%" /></p><br />
