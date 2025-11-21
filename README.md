@@ -41,4 +41,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harungecit&show_icons=true&locale=en" alt="harungecit" width="49%" /></p><br />
 <br />
 
-<div  align="center"> <img src="https://github.com/harungecit/harungecit/blob/output/github-contribution-grid-snake.svg" /></div>
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harungecit/harungecit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harungecit/harungecit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harungecit/harungecit/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
