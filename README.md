@@ -217,16 +217,34 @@ VS Code extension with JetBrains-style changelists.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harungecit&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2f88ff&icon_color=2f88ff" height="170" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harungecit&theme=tokyonight&hide_border=true&border_radius=5.5&background=0d1117&ring=2f88ff&fire=2f88ff&currStreakLabel=2f88ff&date_format=j%20M%5B%20Y%5D&mode=weekly" height="170" alt="streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harungecit&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2f88ff&icon_color=2f88ff&include_all_commits=true&count_private=true" height="170" alt="stats" />
+  <img src="https://streak-stats.demolab.com/?user=harungecit&theme=tokyonight&hide_border=true&border_radius=5.5&background=0d1117&ring=2f88ff&fire=2f88ff&currStreakLabel=2f88ff&date_format=j%20M%5B%20Y%5D&mode=weekly" height="170" alt="streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=harungecit&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2f88ff&langs_count=10" height="170" alt="langs" />
 </div>
 
+<h4 align="center">📈 Contribution Activity</h4>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harungecit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="90%" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harungecit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=2f88ff&point=ffffff&area=true&area_color=2f88ff&radius=8" width="100%" alt="activity graph" />
+</div>
+
+<h4 align="center">🗂️ Profile Summary</h4>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harungecit&theme=tokyonight" width="82%" alt="profile summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harungecit&theme=tokyonight" height="192" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harungecit&theme=tokyonight" height="192" alt="most commit language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harungecit&theme=tokyonight" height="192" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harungecit&theme=tokyonight&utcOffset=3" height="192" alt="productive time" />
 </div>
 
 <br/>
