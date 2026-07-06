@@ -84,15 +84,9 @@ I'm a **Full Stack Developer & AI Engineer** based in İstanbul, Türkiye, with 
 
 **🔄 My LLM-driven development lifecycle**
 
-```mermaid
-flowchart LR
-    A[💻 Development] -->|LLM pair-programming| B[🧪 Test]
-    B -->|AI-generated suites + bug triage| C[🚦 Staging]
-    C -->|LLM review + security scan| D[🚀 Production]
-    D -->|AI-assisted CI/CD + incident response| A
-    classDef s fill:#2f88ff22,stroke:#2f88ff,color:#eee;
-    class A,B,C,D s;
-```
+<div align="center">
+  <img src="./assets/lifecycle.svg" alt="LLM-driven development lifecycle: Development → Test → Staging → Production, as a continuous AI-assisted loop" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -106,7 +100,7 @@ flowchart LR
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
