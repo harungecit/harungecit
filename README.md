@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Harun Geçit</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%26+AI+Engineer;I+build+with+Large+Language+Models+every+day;RAG+pipelines+%7C+Multi-Agent+orchestration;Cloud+Native+%26+DevOps+enthusiast;15%2B+years+shipping+production+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%26+AI+Engineer;I+build+with+Large+Language+Models+every+day;RAG+pipelines+%7C+Multi-Agent+orchestration;Next.js+on+Cloudflare+Workers+%7C+D1+%7C+R2+%7C+KV;Cloud+Native+%26+DevOps+enthusiast;15%2B+years+shipping+production+software" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -13,6 +13,8 @@
     <a href="https://harungecit.dev" target="blank"><img src="https://img.shields.io/badge/Portfolio-harungecit.dev-2f88ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
     <a href="https://harungecit.com" target="blank"><img src="https://img.shields.io/badge/Website-harungecit.com-1a73e8?style=for-the-badge&logo=about.me&logoColor=white" alt="website" /></a>
     <a href="https://echo.harungecit.dev" target="blank"><img src="https://img.shields.io/badge/Blog-echo.harungecit.dev-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="blog" /></a>
+    <a href="https://basvuru.harungecit.dev" target="blank"><img src="https://img.shields.io/badge/Start_a_project-basvuru.harungecit.dev-2ea043?style=for-the-badge&logo=rocket&logoColor=white" alt="start a project" /></a>
+    <a href="https://harungecit.com/cv.pdf" target="blank"><img src="https://img.shields.io/badge/CV-PDF-6f42c1?style=for-the-badge&logo=readdotcv&logoColor=white" alt="cv" /></a>
   </p>
   <p>
     <a href="https://linkedin.com/in/harungecit" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
@@ -40,10 +42,11 @@ I'm a **Full Stack Developer & AI Engineer** based in İstanbul, Türkiye, with 
 
 - 🧠 I engineer **RAG pipelines**, **multi-agent orchestration** and **multi-LLM** systems in production
 - 🌱 Currently deep in **AI Infrastructure**, **Cloud Native Development & DevOps**
-- 💻 Building products with **Laravel, Go, React & Python**
+- 💻 Building products with **Laravel, Go, React/Next.js, TypeScript & Python** — lately shipping edge-native apps on **Cloudflare Workers (D1 · R2 · KV)**
 - 🔐 Exploring **AI-powered code review, vulnerability scanning & security automation**
 - 📝 I regularly write on [**echo.harungecit.dev**](https://echo.harungecit.dev)
 - 🤝 Open to collaborating on **Open Source** & production **AI systems**
+- 🗂️ I run my freelance pipeline on my own tool, **Atlas PM** — clients start at [**basvuru.harungecit.dev**](https://basvuru.harungecit.dev)
 - 📫 Reach me at **info@harungecit.com** — or explore my portfolio at [**harungecit.dev**](https://harungecit.dev)
 
 > 💡 Fun fact: my portfolio is an interactive **"HarunOS"** — a desktop-like OS experience with draggable windows, right in your browser.
@@ -105,7 +108,7 @@ I'm a **Full Stack Developer & AI Engineer** based in İstanbul, Türkiye, with 
 <div align="center">
 
 <h4>Languages & Frameworks</h4>
-<img src="https://skillicons.dev/icons?i=php,laravel,go,python,react,vue,js,ts,html,css,tailwind,bootstrap,nodejs" width="80%" />
+<img src="https://skillicons.dev/icons?i=php,laravel,go,python,react,nextjs,vue,js,ts,html,css,tailwind,bootstrap,nodejs" width="80%" />
 <br/><br/>
 
 <h4>Databases & Search</h4>
@@ -113,8 +116,22 @@ I'm a **Full Stack Developer & AI Engineer** based in İstanbul, Türkiye, with 
 <br/><br/>
 
 <h4>Cloud, DevOps & Infrastructure</h4>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,ubuntu,debian,nginx,git,github,githubactions,grafana,prometheus" width="80%" />
+<img src="https://skillicons.dev/icons?i=cloudflare,workers,docker,kubernetes,aws,gcp,azure,linux,ubuntu,debian,nginx,git,github,githubactions,grafana,prometheus" width="80%" />
 <br/><br/>
+
+<h4>Edge & Serverless</h4>
+<p>
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" />
+  <img src="https://img.shields.io/badge/D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workers_KV-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Turnstile-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenNext-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
+</p>
 
 <h4>Modern Stack & Tooling</h4>
 <p>
@@ -145,6 +162,10 @@ I'm a **Full Stack Developer & AI Engineer** based in İstanbul, Türkiye, with 
 <tr>
 <td width="50%" valign="top">
 
+**🗂️ [Atlas PM](https://basvuru.harungecit.dev)** · `2026–`
+Freelance CRM / project panel + public client-intake form, shipped as **one Cloudflare Worker serving 4 domains** — Next.js 15 via OpenNext, D1 + Drizzle (34 tables), R2, KV, cron; scrypt/TOTP auth, 11-layer spam defence, license API.
+`Next.js` `TypeScript` `Cloudflare Workers` `D1` `R2` `KV`
+
 **🧠 [RAG Knowledge Engine](https://harungecit.dev)** · `2024–`
 Production RAG system on PostgreSQL + pgvector with multi-LLM support.
 `PostgreSQL` `pgvector` `LLM` `Python`
@@ -153,38 +174,38 @@ Production RAG system on PostgreSQL + pgvector with multi-LLM support.
 LLM orchestration layer routing tasks across multiple models.
 `Orchestration` `Multi-LLM` `Agents`
 
-**🎓 [AI Infra Academy](https://harungecit.dev)** · `2025–`
-Interactive bilingual app for learning AI infrastructure engineering.
+**🎓 [AI Infra Academy](https://ai-lab.harungecit.dev)** · `2025–`
+Interactive bilingual app for learning AI infrastructure engineering. [Source](https://github.com/harungecit/ai-infra-academy)
 `React` `TypeScript` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+**📧 [PHP Email Validator](https://github.com/harungecit/php-email-validator)** · `OSS`
+Validation library detecting **4,900+** disposable domains. [Packagist](https://packagist.org/packages/harungecit/php-email-validator)
+`PHP` `Composer`
+
+**🛰️ [Vigilon](https://github.com/harungecit/vigilon)** · `OSS`
+Multi-platform service monitoring — Go, SQLite & Docker.
+`Go` `SQLite` `Docker`
+
+**🧾 [UBL Viewer](https://chromewebstore.google.com/detail/mccmnolbachccdccdcidgkoligcalgpm)** · `OSS`
+Browser extension for Turkish e-Invoice & UBL documents. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ubl-viewer/)
+`Browser Extension` `UBL`
+
+**📝 [Smart Changelists](https://github.com/harungecit/smart-changelists)** · `OSS`
+VS Code extension with JetBrains-style changelists. [Marketplace](https://marketplace.visualstudio.com/items?itemName=harungecit.smart-changelists)
+`VS Code` `TypeScript`
 
 **🧪 [AI Training Platform](https://harungecit.dev)** · `2022–`
 Smart training with AI-supported exercises.
 `Python` `TensorFlow`
 
 </td>
-<td width="50%" valign="top">
-
-**📧 [PHP Email Validator](https://github.com/harungecit)** · `OSS`
-Validation library detecting **4,900+** disposable domains.
-`PHP` `Composer`
-
-**🛰️ [Vigilon](https://github.com/harungecit)** · `OSS`
-Multi-platform service monitoring — Go, SQLite & Docker.
-`Go` `SQLite` `Docker`
-
-**🧾 [UBL Viewer](https://github.com/harungecit)** · `OSS`
-Browser extension for Turkish e-Invoice & UBL documents.
-`Browser Extension` `UBL`
-
-**📝 [Smart Changelists](https://github.com/harungecit)** · `OSS`
-VS Code extension with JetBrains-style changelists.
-`VS Code` `TypeScript`
-
-</td>
 </tr>
 </table>
 
-<sub>🏭 Also: <b>RFID Tracking System</b> (enterprise textile inventory) · <b>DevTools Platform</b> · <b>BRAISLATOR</b> (Braille translation PWA) — full case studies at <a href="https://harungecit.dev">harungecit.dev</a></sub>
+<sub>🏭 Also: <b>RFID Tracking System</b> (enterprise textile inventory) · <a href="https://devtools.harungecit.dev"><b>DevTools Platform</b></a> · <b>BRAISLATOR</b> (Braille translation PWA) — full case studies at <a href="https://harungecit.dev">harungecit.dev</a></sub>
 
 </div>
 
@@ -194,7 +215,7 @@ VS Code extension with JetBrains-style changelists.
 
 | Period | Role | Focus |
 | :-- | :-- | :-- |
-| **2022 – Now** | Full Stack Developer & **AI Engineer** — *USTEK RFID* | Laravel · RAG · pgvector |
+| **2022 – Now** | Full Stack Developer & **AI Engineer** — *USTEK RFID* | Go · Laravel · RAG · pgvector |
 | **2022 – Now** | Software Advisor & **AI Engineer** — *CatchPad* | Python · TensorFlow · multi-LLM |
 | **2021 – 2022** | Full Stack Developer — *Gourmeturca.com* | Laravel · ERP integrations |
 | **2020 – 2021** | Full Stack Developer — *Sadıkoğulları Teknoloji* | Sentiment analysis · Docker |
@@ -207,7 +228,7 @@ VS Code extension with JetBrains-style changelists.
 <div align="center">
 
 `Production AI systems` · `RAG & vector databases` · `LLM integration & orchestration`
-`Full stack web development` · `DevOps & cloud infrastructure`
+`Full stack web development` · `Edge / serverless apps (Next.js on Cloudflare Workers)` · `DevOps & cloud infrastructure`
 `AI-powered code review & security` · `Consultation & software advisory`
 
 </div>
@@ -271,8 +292,12 @@ VS Code extension with JetBrains-style changelists.
 
 ### 💬 Let's build something
 
+<a href="https://basvuru.harungecit.dev" target="blank"><img src="https://img.shields.io/badge/Start_a_project-2ea043?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 <a href="https://harungecit.dev" target="blank"><img src="https://img.shields.io/badge/Explore_HarunOS-2f88ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://harungecit.com/cv.pdf" target="blank"><img src="https://img.shields.io/badge/Download_CV-6f42c1?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 <a href="mailto:info@harungecit.com" target="blank"><img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<sub>Have a project in mind? The fastest way is the intake form at <a href="https://basvuru.harungecit.dev">basvuru.harungecit.dev</a> — it lands straight in my pipeline.</sub>
 
 <sub>⭐️ From <a href="https://github.com/harungecit">harungecit</a> — <i>designing scalable systems, one LLM at a time.</i></sub>
 
