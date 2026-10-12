@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Harun Geçit</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%26+AI+Engineer;I+build+with+Large+Language+Models+every+day;RAG+pipelines+%7C+Multi-Agent+orchestration;Next.js+on+Cloudflare+Workers+%7C+D1+%7C+R2+%7C+KV;Cloud+Native+%26+DevOps+enthusiast;15%2B+years+shipping+production+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=520&lines=Senior+AI+Engineer+%26+Full+Stack+Developer;Forward-deployed%3A+LLM+agents+for+real+workflows;Tool+calling+%C2%B7+PageIndex+RAG+%C2%B7+guardrails;Python+%C2%B7+Go+%C2%B7+PHP+%C2%B7+Node.js;Next.js+on+Cloudflare+Workers+%7C+D1+%7C+R2+%7C+KV;15%2B+years+shipping+production+software" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -38,12 +38,13 @@
 
 <img align="right" width="200" src="https://camo.githubusercontent.com/2c99404f7a65adc80a1923cfa4465cc4b5ba2a32a203e9c795fcc2c28a027ace/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" alt="coding gif" />
 
-I'm a **Full Stack Developer & AI Engineer** based in İstanbul, Türkiye, with **15+ years** in software development and **2+ years** of hands-on **AI/LLM engineering**. I design scalable systems and build with **Large Language Models** every single day.
+I'm a **Senior AI Engineer & Full Stack Developer** based in İstanbul, Türkiye, with **15+ years** in software development and **2+ years** shipping **LLM systems** in production. I work **forward-deployed**: I sit with operations, support and sales teams, map how their work really flows, and turn it into AI agents that run in production, not in a demo.
 
-- 🧠 I engineer **RAG pipelines**, **multi-agent orchestration** and **multi-LLM** systems in production
+- 🧠 I build **tool-calling agents** with structured output, **PageIndex-style RAG**, **guardrails** and **multi-provider failover** (Claude, Gemini, OpenRouter, Groq, NVIDIA NIM, self-hosted llama.cpp)
+- 🔌 I give agents read-only access to business data through **MCP servers** and wire LLM services into WhatsApp, Telegram, Shopify and ClickUp
 - 🌱 Currently deep in **AI Infrastructure**, **Cloud Native Development & DevOps**
-- 💻 Building products with **Laravel, Go, React/Next.js, TypeScript & Python** — lately shipping edge-native apps on **Cloudflare Workers (D1 · R2 · KV)**
-- 🔐 Exploring **AI-powered code review, vulnerability scanning & security automation**
+- 💻 Polyglot backend: **Python, Go, PHP/Laravel & Node.js** (plus React/Next.js & TypeScript) — lately shipping edge-native apps on **Cloudflare Workers (D1 · R2 · KV)**
+- 🔐 I run an **autonomous AI PR-review agent** and keep AI security boundaries in code, not in prompts
 - 📝 I regularly write on [**echo.harungecit.dev**](https://echo.harungecit.dev)
 - 🤝 Open to collaborating on **Open Source** & production **AI systems**
 - 🗂️ I run my freelance pipeline on my own tool, **Atlas PM** — clients start at [**basvuru.harungecit.dev**](https://basvuru.harungecit.dev)
@@ -63,22 +64,23 @@ I'm a **Full Stack Developer & AI Engineer** based in İstanbul, Türkiye, with 
 <td width="50%" valign="top">
 
 **🧩 What I build**
-- RAG pipelines on **PostgreSQL + pgvector**
-- Multi-agent orchestration & **multi-LLM** routing
-- Fine-tuning & **PageIndex**-based training workflows
-- Web-search agents & custom **skills**
-- Token accounting & **cost optimization**
-- AI-powered **code review & security scanning**
+- Tool-calling **AI agents** with structured output & text-to-SQL
+- **PageIndex-style RAG** grounded in manuals & glossaries
+- **Guardrails** in code: read-only sandboxes, KVKK/GDPR masking
+- **Multi-provider failover** with token & cost tracking
+- **MCP servers** & LLM services wired into business tools
+- Conversation, persona & **decision-flow** design
+- **Python** workflow automation replacing no-code flows
 
 </td>
 <td width="50%" valign="top">
 
 **🛠️ Daily AI toolbelt**
-- Claude Code · OpenAI Codex · Gemini CLI
+- Claude Code (skills · subagents · MCP) · OpenAI Codex · Gemini CLI
 - Cursor · GitHub Copilot · TRAE
-- Custom agents & orchestration layers
-- Embeddings · function calling · prompt engineering
-- TensorFlow · Python ML tooling
+- Laravel AI SDK · MCP SDKs (Go · TypeScript)
+- Claude · Gemini · OpenRouter · Groq · NVIDIA NIM · llama.cpp
+- Tool calling · structured output · prompt & persona design
 
 </td>
 </tr>
@@ -95,10 +97,13 @@ I'm a **Full Stack Developer & AI Engineer** based in İstanbul, Türkiye, with 
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
 
 ---
@@ -166,13 +171,13 @@ I'm a **Full Stack Developer & AI Engineer** based in İstanbul, Türkiye, with 
 Freelance CRM / project panel + public client-intake form, shipped as **one Cloudflare Worker serving 4 domains** — Next.js 15 via OpenNext, D1 + Drizzle (34 tables), R2, KV, cron; scrypt/TOTP auth, 11-layer spam defence, license API.
 `Next.js` `TypeScript` `Cloudflare Workers` `D1` `R2` `KV`
 
-**🧠 [RAG Knowledge Engine](https://harungecit.dev)** · `2024–`
-Production RAG system on PostgreSQL + pgvector with multi-LLM support.
-`PostgreSQL` `pgvector` `LLM` `Python`
+**🧰 [DevBox](https://devboxapp.com)** · `OSS` · `2026–`
+Desktop app for local dev environments — runtimes, databases, web servers, .test domains, SSL & tunnels in one place. [Source](https://github.com/DevBox-App/DevBox)
+`Go` `Wails` `Desktop`
 
-**🤝 [Multi-Agent AI Toolkit](https://harungecit.dev)** · `2024–`
-LLM orchestration layer routing tasks across multiple models.
-`Orchestration` `Multi-LLM` `Agents`
+**💳 [Turkish Payment Gateways — AI Agent Docs](https://github.com/harungecit/turkish-payment-gateways-ai-docs)** · `OSS`
+Machine-first integration specs that let coding agents implement bank Virtual POS gateways in any language, with golden test vectors.
+`AI Agents` `Agent Docs` `Payments`
 
 **🎓 [AI Infra Academy](https://ai-lab.harungecit.dev)** · `2025–`
 Interactive bilingual app for learning AI infrastructure engineering. [Source](https://github.com/harungecit/ai-infra-academy)
@@ -198,14 +203,14 @@ VS Code extension with JetBrains-style changelists. [Marketplace](https://market
 `VS Code` `TypeScript`
 
 **🧪 [AI Training Platform](https://harungecit.dev)** · `2022–`
-Smart training with AI-supported exercises.
-`Python` `TensorFlow`
+Smart training (TÜBİTAK 1501) with AI coaching agents, athlete segmentation & performance scoring.
+`Laravel` `LLM Agents` `Python`
 
 </td>
 </tr>
 </table>
 
-<sub>🏭 Also: <b>RFID Tracking System</b> (enterprise textile inventory) · <a href="https://devtools.harungecit.dev"><b>DevTools Platform</b></a> · <b>BRAISLATOR</b> (Braille translation PWA) — full case studies at <a href="https://harungecit.dev">harungecit.dev</a></sub>
+<sub>🏭 Also: <b>RFID Tracking System</b> (enterprise textile inventory) · <a href="https://devtools.harungecit.dev"><b>DevTools Platform</b></a> · <b>BRAISLATOR</b> (Braille translation PWA) — more at <a href="https://harungecit.dev">harungecit.dev</a></sub>
 
 </div>
 
@@ -215,8 +220,8 @@ Smart training with AI-supported exercises.
 
 | Period | Role | Focus |
 | :-- | :-- | :-- |
-| **2022 – Now** | Full Stack Developer & **AI Engineer** — *USTEK RFID* | Go · Laravel · RAG · pgvector |
-| **2022 – Now** | Software Advisor & **AI Engineer** — *CatchPad* | Python · TensorFlow · multi-LLM |
+| **2022 – Now** | Software Architect & **AI Engineer** — *CatchPad* | LLM agents · PageIndex RAG · guardrails · Python |
+| **2022 – Now** | Senior Full Stack Developer & **AI Engineer** — *USTEK RFID* | Go · LLM services · MCP · llama.cpp · RFID |
 | **2021 – 2022** | Full Stack Developer — *Gourmeturca.com* | Laravel · ERP integrations |
 | **2020 – 2021** | Full Stack Developer — *Sadıkoğulları Teknoloji* | Sentiment analysis · Docker |
 | **2011 – 2019** | Freelance Full Stack Developer | WordPress · Server admin |
@@ -227,7 +232,7 @@ Smart training with AI-supported exercises.
 
 <div align="center">
 
-`Production AI systems` · `RAG & vector databases` · `LLM integration & orchestration`
+`Production AI agents & workflows` · `RAG & PageIndex grounding` · `LLM integration, failover & cost control`
 `Full stack web development` · `Edge / serverless apps (Next.js on Cloudflare Workers)` · `DevOps & cloud infrastructure`
 `AI-powered code review & security` · `Consultation & software advisory`
 
